@@ -15,7 +15,7 @@ How to get to the terminal on Mac:
 2. **Go to Applications**
 3. **Click Utilities**
 
-.. image:: Utilities - Read the docs.png
+.. image:: 'Utilities - Read the docs.png'
         :align: center
         :alt: Utilities
         
