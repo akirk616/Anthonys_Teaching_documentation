@@ -10,7 +10,7 @@ Terminal provides a command line interface to control the UNIX based operating s
 
 
 How to get to the terminal on Mac:
-==================================
+----------------------------------
 1. **open finder** ![alt text](###images
 2. **Go to Applications**
 3. **Click Utilities**
