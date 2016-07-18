@@ -12,19 +12,32 @@ Terminal provides a command line interface to control the UNIX based operating s
 How to get to the terminal on Mac:
 ----------------------------------
 1. **open finder** 
+
+.. image:: finder-readthedocs.png
+        :align: center
+        :alt: Finder
+        
 2. **Go to Applications**
 
 .. image:: Applications-readthedocs.png
         :align: center
-        :alt: finder
+        :alt: Applications
 
 3. **Click Utilities**
 
 .. image:: utilities-readthedocs.png
         :align: center
-        :alt: utilities
+        :alt: Utilities
         
 4. **Click Terminal**
+
+.. image:: terminal-readthedocs.png
+        :align: center
+        :alt: Terminal
+       
+.. image:: terminalpicture-readthedocs.png
+        :align: center
+        :alt: Terminal visual
 
 
 Basic commands for terminal and their uses:
