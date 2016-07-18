@@ -14,7 +14,11 @@ How to get to the terminal on Mac:
 1. **open finder** 
 2. **Go to Applications**
 3. **Click Utilities**
-![alt text](https://github.com/akirk616/Anthonys_Teaching_documentation/blob/master/source/Utilities%20-%20Read%20the%20docs.png "Utilities") 
+
+.. image:: Utilities - Read the docs.png
+        :align: center
+        :alt: Utilities
+        
 4. **Click Terminal**
 
 
