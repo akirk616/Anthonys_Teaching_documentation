@@ -68,9 +68,9 @@ you can move and cp multiple files at once using wildcards such as ``*``
 
 ``cp``: This is used to copy files and directories
 
-``rm``: This is used to delete files; ***warning, very dangerous, I recommend using*** ``rm -i`` ***to be safe***
+``rm``: This is used to delete files; *warning, very dangerous, I recommend using* ``rm -i`` *to be safe*
 
-counting characters in a file: ``ls -l`` includes the file size ``wc`` tells number of line, words, characters in a specific file. ``wc -l`` ``wc -w`` ``wc -c`` gives a specific statistic
+counting characters in a file: ``ls -l`` includes the file size ``wc`` tells number of line, words, characters in a specific file. ``wc -l``, ``wc -w``, ``wc -c`` gives a specific statistic
 
 matching files with grep: use "grep keyword filename" to to search for specific words in specific lines. ``-i`` ignore case, ``-w`` only match whole words, ``-v`` show lines that dont match a pattern.
 
