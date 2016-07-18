@@ -20,9 +20,9 @@ How to get to the terminal on Mac:
 
 3. **Click Utilities**
 
-.. image:: 'Utilities - Read the docs.png'
+.. image:: utilities-readthedocs.png
         :align: center
-        :alt: Utilities
+        :alt: utilities
         
 4. **Click Terminal**
 
