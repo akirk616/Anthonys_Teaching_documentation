@@ -15,6 +15,8 @@ How to get to the terminal on Mac:
 
 .. image:: finder-readthedocs.png
         :align: center
+        :height: 400 px
+        :width: 400 px
         :alt: Finder
         
 2. **Go to Applications**
