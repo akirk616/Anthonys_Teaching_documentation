@@ -81,7 +81,11 @@ combining unix commands with pipes: use ``|`` to combine unix commands.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
+   
+   terminal
+   bash
+   python
 
 
 
