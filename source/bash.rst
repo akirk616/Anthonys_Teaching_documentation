@@ -47,4 +47,12 @@ Step 2: Shell Commands in Bash
         
 *Again you must make every file executable by typing* `chmod +x filename` *into the command line and to run the file you must type* `./filename` *in the command line.*
 
+Step 3: User Input
+------------------
+
+.. image:: step3userinput_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: UserInput
 
