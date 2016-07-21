@@ -36,4 +36,15 @@ Create a directory named Learning_Bash. In Learning_Bash create a file named ste
 
 before running the file, you must first make it executable. To make it executable you must type into terminal ``chmod +x step1.sh``. To run the bash script you must then type into terminal ``./step1.sh``
 
+Step 2: Shell Commands in Bash
+------------------------------
+
+.. image:: step2shellcommands_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Shell
+        
+*Again you must make every file executable by typing* `chmod +x filename` *into the command line and to run the file you must type* `./filename` *in the command line.*
+
 
