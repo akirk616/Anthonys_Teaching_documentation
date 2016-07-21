@@ -21,7 +21,7 @@ It should look like this:
         :width: 400 px
         :alt: Step0
 
-We should also find a text editor for bash. I use [TextWrangler](http://www.barebones.com/products/textwrangler/download.html) Download one you like and learn how to use it.
+We should also find a text editor for bash. I use `TextWrangler <http://www.barebones.com/products/textwrangler/download.html>`_. Download one you like and learn how to use it.
 
 Step 1: Variables
 ------
