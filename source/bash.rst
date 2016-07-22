@@ -153,3 +153,14 @@ Step 6: File Testing
         :width: 400 px
         :alt: FileTesting
         
+Step 7: Loops
+-------------
+If you ever get stuck in a loop press ``ctrl+c``
+
+.. image:: step7loops_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Loops
+        
+Step 8: 
