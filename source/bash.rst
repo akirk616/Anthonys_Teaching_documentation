@@ -56,3 +56,58 @@ Step 3: User Input
         :width: 400 px
         :alt: UserInput
 
+Step 4: If/ Else Statements
+---------------------------
+
+.. image:: step4ifelse_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: If/Else
+        
+Step 5: Comparisons
+-------------------
++------------------------+
+| Arithmetic Comparisons |
++-----------+------------+
+| -lt       | <          |
++-----------+------------+
+| -gt       | >          |
++-----------+------------+
+| -le       | <=         |
++-----------+------------+
+| -ge       | >=         |
++-----------+------------+
+| -eq       | ==         |
++-----------+------------+
+| -ne       | !=         |
++-----------+------------+
+
+.. image:: step5acomparisons_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Comparisons
+        
++--------------------------------+
+|        String Comparisons      |
++-------+------------------------+
+| =     | equal                  |
++-------+------------------------+
+| !=    | not equal              |
++-------+------------------------+
+| <     | less then              |
++-------+------------------------+
+| >     | greater then           |
++-------+------------------------+
+| -n s1 | string s1 is not empty |
++-------+------------------------+
+| -z s1 | string s1 is empty     |
++-------+------------------------+
+        
+.. image:: step5bcomparisons_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Comparisons
+        
