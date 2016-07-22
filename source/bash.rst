@@ -163,4 +163,13 @@ If you ever get stuck in a loop press ``ctrl+c``
         :width: 400 px
         :alt: Loops
         
-Step 8: 
+Step 8: Calculations
+--------------------
+ADD MONDAY
+
+.. image:: step8calculator_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Calculator
+
