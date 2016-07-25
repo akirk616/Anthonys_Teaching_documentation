@@ -68,4 +68,12 @@ Step 2: User input
         :width: 400 px
         :alt: UserInput
         
+Step 3: If/ Else Statements
+---------------------------
+
+.. image:: step3python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: IfElse
         
