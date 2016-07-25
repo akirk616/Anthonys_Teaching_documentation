@@ -11,7 +11,7 @@ Terminal provides a command line interface to control the UNIX based operating s
 
 How to get to the terminal on Mac:
 ----------------------------------
-1. **open finder** 
+1. **Open finder** 
 
 .. image:: finder-readthedocs.png
         :align: center
