@@ -107,3 +107,32 @@ Step 5: Files
         :height: 400 px
         :width: 400 px
         :alt: Files
+
+You must create a file before running this script. type ``touch test.txt`` into the command line and it will create an empty text file.
+        
+Step 6: Calculator & Functions
+------------------------------
+
+.. image:: step6python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: CalculatorFunctions
+
+Step 7: Loops
+-------------
+
+.. image:: step7python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Loops
+
+Step 8: dictionaries and Lists
+------------------------------
+
+.. image:: step8python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Lists
