@@ -77,3 +77,33 @@ Step 3: If/ Else Statements
         :width: 400 px
         :alt: IfElse
         
+Step 4: Argv
+------------
+Any time you run a script using ``argv`` you must pass it arguments. To run this script you type the usual ``python step4.py`` but you also have to pass it 3 arguments.
+It should look like ``python step4.py Batman Robin Joker``. Any three arguments work.
+
+.. image:: step4python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Argv
+        
+Step 5: Files
+-------------
++----------------+--------------------------------------------------------------------------+
+| close          | Closes the file. Like File->Save.. in your editor.                       |
++----------------+--------------------------------------------------------------------------+
+| read           | Reads the contents of the file. You can assign the result to a variable. |
++----------------+--------------------------------------------------------------------------+
+| readline       | Reads just one line of a text file.                                      |
++----------------+--------------------------------------------------------------------------+
+| truncate       | Empties the file. Watch out if you care about the file.                  |
++----------------+--------------------------------------------------------------------------+
+| write('stuff') | Writes "stuff" to the file.                                              |
++----------------+--------------------------------------------------------------------------+
+
+.. image:: step5python_rtd.png
+        :align: center
+        :height: 400 px
+        :width: 400 px
+        :alt: Files
