@@ -8,8 +8,8 @@ What is Bash scripting and what is it's uses?
 ---------------------------------------------
 A Bash script is a plain text file which contains a series of commands. These commands then tell your computer what it should do.
 
-Tutorial
-========
+**Tutorial**
+--------
 Step 0
 ------
 We should first locate your bash interpreter. To do so we enter ``which bash`` into the terminal.  
