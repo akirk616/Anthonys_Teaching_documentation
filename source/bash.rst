@@ -165,7 +165,6 @@ If you ever get stuck in a loop press ``ctrl+c``
         
 Step 8: Calculations
 --------------------
-ADD MONDAY
 
 .. image:: step8calculator_rtd.png
         :align: center
