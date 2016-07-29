@@ -5,8 +5,6 @@ Terminal
 What is the Terminal and what is its uses?
 ------------------------------------------
 The terminal can basically be used for everything, like run programs, open and delete files.
-Terminal provides a command line interface to control the UNIX based operating system.
-
 
 How to get to the terminal on Mac:
 ----------------------------------
