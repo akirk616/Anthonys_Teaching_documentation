@@ -4,8 +4,8 @@
 Bash Scripting
 ==============
 
-What is Bash scripting and what is it's uses?
----------------------------------------------
+What is Bash Scripting?
+-----------------------
 A Bash script is a plain text file which contains a series of commands. These commands then tell your computer what it should do.
 
 **Tutorial**
@@ -26,7 +26,7 @@ We should also find a text editor for bash. I use `TextWrangler <http://www.bare
 Step 1: Variables
 ------
 All bash shell scripts start with a **shebang** ``#!`` followed by the location of your bash interpreter.
-Create a directory named Learning_Bash. In Learning_Bash create a file named step1.sh (all bash scripts end in .sh)
+Create a directory named Learning_Bash. In Learning_Bash create a file named step1.sh (*all bash scripts end in .sh*)
 
 .. image:: step1variables_rtd.png
         :align: center
@@ -34,7 +34,7 @@ Create a directory named Learning_Bash. In Learning_Bash create a file named ste
         :width: 400 px
         :alt: Variables
 
-before running the file, you must first make it executable. To make it executable you must type into terminal ``chmod +x step1.sh``. To run the bash script you must then type into terminal ``./step1.sh``
+Before running the file, you must first make it executable. To make it executable you must type into terminal ``chmod +x step1.sh``. To run the bash script you must then type into terminal ``./step1.sh``
 
 Step 2: Shell Commands in Bash
 ------------------------------
@@ -45,7 +45,7 @@ Step 2: Shell Commands in Bash
         :width: 400 px
         :alt: Shell
         
-*Again you must make every file executable by typing* `chmod +x filename` *into the command line and to run the file you must type* `./filename` *in the command line.*
+*Again you must make every file executable by typing* `chmod +x filename` *into the command line and to run the file you must type* `./filename` *in the command line.* Another way to run bash scripts is typing ``bash step2.sh``.
 
 Step 3: User Input
 ------------------
