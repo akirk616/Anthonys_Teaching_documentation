@@ -9,9 +9,9 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
 
 
 .. figure:: AnthonyKirkland.jpg
-    :width: 400px
+    :width: 255px
     :align: center
-    :height: 400px
+    :height: 187px
     :alt: Anthony Kirkland
     :figclass: align-center
 
