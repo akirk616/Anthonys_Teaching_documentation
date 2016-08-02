@@ -5,7 +5,7 @@
 
 Introduction
 ============
-My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in the Bioinformatics Lab with Megan and Ben. Where I learned *FIVE* different computing languages. Today I will talk about two of them. I think that it is beneficial for everyone to learn some type of programming language or at least learn how their computers work. Learning how to manipulate large files could speed up your research and would allow you to have a better understanding of your data and create a better hypothesis.
+My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in the Bioinformatics Lab with Megan and Ben. Where I learned *FIVE* different computing languages; bash and python. Today I will talk about two of them. I think that it is beneficial for everyone to learn some type of programming language or at least learn how their computers work. Learning how to manipulate large files could speed up your research and would allow you to have a better understanding of your data and create a better hypothesis.
 
 
 .. toctree::
