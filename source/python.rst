@@ -3,9 +3,9 @@
 Python
 ======
 
-What is python and what is it's uses?
+What is python and what are its uses?
 -------------------------------------
-Python is a high level, general purpose, programming language. Most social medias we use use python such as Twitter, Instagram, Snapchat, Facebook.
+Python is a high level, general purpose, programming language. Most of the internet runs on python.
 
 Tutorial
 --------
