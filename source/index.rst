@@ -17,9 +17,7 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
 
     Ben Johnson, Ph.D.
     
-    .. code-block:: python
 
-        Ben Johnson, Ph.D.
 
 .. figure:: Bowman_Megan_255x187.jpg
     :width: 400px
@@ -30,9 +28,7 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
 
     Megan Bowman, Ph.D.
     
-    .. code-block:: python
 
-        Megan Bowman, Ph.D.
 
 .. figure:: Winn_Mary_255x187.jpg
     :width: 400px
@@ -43,9 +39,6 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     
     Mary Winn, Ph.D.
     
-    .. code-block:: python
-
-        Mary Winn, Ph.D.
 
 .. toctree::
    :hidden:
