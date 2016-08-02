@@ -1,7 +1,9 @@
 .. _acknowledgements:
 
+Acknowledgements
+================
 Thank You
-=========
+---------
 AME
 
 Roger Patricks
