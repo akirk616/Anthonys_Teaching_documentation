@@ -15,7 +15,11 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     :alt: Ben Johnson
     :figclass: align-center
 
-    Ben Johnson
+    Ben Johnson, Ph.D.
+    
+    .. code-block:: python
+
+        Ben Johnson, Ph.D.
 
 
 .. toctree::
