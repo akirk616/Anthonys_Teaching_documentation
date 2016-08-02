@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Anthony\'s Teaching Documentation'
+project = u'The CODE to be a better scientist'
 copyright = u'2016, Anthony Kirkland'
 author = u'Anthony Kirkland'
 
