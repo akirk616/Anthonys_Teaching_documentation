@@ -41,7 +41,7 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     :alt: Mary Winn, Ph.D.
     :figclass: align-center
 
-    Mary Winn, Ph.D.
+    
     
     .. code-block:: python
 
