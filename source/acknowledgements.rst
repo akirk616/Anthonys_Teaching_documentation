@@ -5,6 +5,11 @@ Acknowledgements
 Thank You
 ---------
 AME
+            VAIGS
+            Michelle Love
+            AME coordinator
+
+AME
 
 Roger Patricks
 Mark Frost
