@@ -17,6 +17,7 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
 
     Anthony Kirkland
 
+
 .. figure:: Winn_Mary_255x187.jpg
     :width: 33 %
     :alt: Mary Winn, Ph.D.
