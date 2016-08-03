@@ -16,8 +16,6 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     :figclass: align-center
 
     Anthony Kirkland
-
-    
 .. figure:: Winn_Mary_255x187.jpg
     :width: 25 %
     :align: center
@@ -26,8 +24,6 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     :figclass: align-center
     
     Mary Winn, Ph.D.
-
-
 .. figure:: Bowman_Megan_255x187.jpg
     :width: 25 %
     :align: center
@@ -36,8 +32,6 @@ My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in th
     :figclass: align-center
 
     Megan Bowman, Ph.D.
-    
-
 .. figure:: Johnson_Ben_255x187_RGB-002.jpg
     :width: 25 %
     :align: center
