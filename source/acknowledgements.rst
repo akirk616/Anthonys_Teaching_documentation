@@ -4,16 +4,10 @@ Acknowledgements
 ================
 Thank You
 ---------
-AME
-            VAIGS
-            Michelle Love
-            AME coordinator
-
-AME
-
-Roger Patricks
-Mark Frost
-Michelle Love
-Mary Winn
-Megan Bowman
-Ben Johnson
+I would like to thank
+Roger Patricks,
+Mark Frost,
+Michelle Love,
+Mary Winn,
+Megan Bowman,
+Ben Johnson.
