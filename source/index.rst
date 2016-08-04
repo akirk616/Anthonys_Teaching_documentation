@@ -5,7 +5,7 @@
 
 Introduction - *The CODE to be a better scientist*
 ============
-My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in the Bioinformatics and Biostatistics Core with Mary, Megan, and Ben where I learned *FIVE* different computing languages, bash and python (bash, python, SQL, Markdown, Restructured text). Today I will talk about two of them. I think that it is beneficial for everyone to learn some type of programming language or at least learn how their computers work. Learning how to manipulate large files could speed up your research, allowing you to have a better understanding of your data and create a more focused hypothesis.
+My name is Anthony Kirkland. I am a senior at Innovation Central. I worked in the Bioinformatics and Biostatistics Core with Mary, Megan, and Ben where I learned *FIVE* different computing languages (bash, python, SQL, Markdown, Restructured text). Today I will talk about two of them: bash and python. I think that it is beneficial for everyone to learn some type of programming language or at least learn how their computers work. Learning how to manipulate large files could speed up your research, allowing you to have a better understanding of your data and create a more focused hypothesis.
 
 
 .. figure:: AnthonyKirkland.jpg
