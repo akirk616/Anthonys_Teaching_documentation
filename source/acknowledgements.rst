@@ -5,7 +5,7 @@ Acknowledgements
 Thank You
 ---------
 I would like to thank
-Roger Patricks,
+Roger Patrick,
 Mark Frost,
 Michelle Love,
 Mary Winn,
